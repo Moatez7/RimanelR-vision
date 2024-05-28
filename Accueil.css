@@ -146,5 +146,9 @@ section{
         width: 100%;
         height: auto;
     }
+    .hero-img img{
+        width: 300px;
+        height: auto;
+    }
 }
 
