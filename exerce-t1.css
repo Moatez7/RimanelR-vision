@@ -96,6 +96,11 @@ body {
     }
 
 }
+@media (max-width: 680px){
+    .slider a{
+        font-size: 0.4rem;
+    }
+}
 
 .slider {
     position: relative;
