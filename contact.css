@@ -224,7 +224,7 @@ form {
         color: #555;
         margin: 0.7rem 0;
         align-items: center;
-        font-size: 0.6rem;
+        font-size: 0.55rem;
     }
     
     .container {
@@ -265,15 +265,6 @@ form {
     }
 }
   
-@media (max-width: 850px) {
-    
-    .information {
-        display: flex;
-        color: #555;
-        margin: 0.7rem 0;
-        align-items: center;
-        font-size: 0.5rem;
-    }
     
 }
   
