@@ -226,6 +226,9 @@ form {
         align-items: center;
         font-size: 0.55rem;
     }
+    .social-media p {
+    font-size: 0.7rem;
+    }
     
     .container {
     margin-top: 70px;
