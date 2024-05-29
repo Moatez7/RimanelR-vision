@@ -101,6 +101,7 @@ body {
     position: relative;
     width: 50%;
     overflow: hidden;
+    margin-top: 25px;
 }
 .bt {
     display: flex;
