@@ -33,7 +33,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding: 33px 9%;
+    padding: 25px 9%;
     background: transparent;
 }
 .logo {
@@ -111,7 +111,7 @@ body {
 .tr {
     display: flex;
     justify-content: center;
-    margin: 21px;
+    margin: 31px;
 }
 .tr a:hover{
     background-color: #0f2db6;
